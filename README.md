@@ -43,18 +43,15 @@ As principais bibliotecas Python utilizadas neste projeto incluem:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SeuUsuario/NomeDoSeuRepositorio.git](https://github.com/SeuUsuario/NomeDoSeuRepositorio.git)
+    git clone (https://github.com/RafaelCairesMergulhao/AnaliseDeDados/blob/main/Analise_de_dados.ipynb))
     ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd NomeDoSeuRepositorio
-    ```
-3.  **Instale as dependências (se ainda não as tiver):**
+
+2.  **Instale as dependências (se ainda não as tiver):**
     ```bash
     pip install pandas numpy seaborn matplotlib jupyter
     ```
-4.  **Abra o notebook Jupyter:**
+3.  **Abra o notebook Jupyter:**
     ```bash
     jupyter notebook Analise_de_dados.ipynb
     ```
-5.  Execute as células no notebook para replicar a análise.
+4.  **Execute as células no notebook para replicar a análise.**
