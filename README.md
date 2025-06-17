@@ -7,7 +7,7 @@ Este projeto explora a aplicação de técnicas avançadas de regressão para pr
 O objetivo principal deste trabalho é analisar e modelar fatores que influenciam os preços de imóveis, aplicando diversas bibliotecas e técnicas de análise de dados e aprendizado de máquina em Python.
 
 ## Autores
-* Maria Isabel
+
 * Mateus Calabrez
 * Kevin Ricardo
 * Rafael Caires Mergulhão
